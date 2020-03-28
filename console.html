@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Simple WebSocket Game Console</title>
+		<script type="text/javascript">
+			function format(s){
+				var current_style={color:"WHITE",background:"BLACK",style:"NORMAL"},SPANS=0
+				function style_span(dt){
+					var COLORS={"BLACK":"#000000","BLACKBRIGHT":"#545454","RED":"#810000","REDBRIGHT":"#ff1700","GREEN":"#008100","GREENBRIGHT":"#16ff00","YELLOW":"#818100","YELLOWBRIGHT":"#ecff00","BLUE":"#000081","BLUEBRIGHT":"#0000ec","MAGENTA":"#810081","MAGENTABRIGHT":"#ff00c3","CYAN":"#008181","CYANBRIGHT":"#16ffff","WHITE":"#c1c1c1","WHITEBRIGHT":"#f8f8f8"}
+					var col=COLORS[dt.color+(dt.style=="BRIGHT"?"BRIGHT":"")]
+					var bg=COLORS[dt.background]
+					return "<span style=\"color:"+col+";background:"+bg+";\">"
+				}
+				function rpl(){
+					o=arguments[1]
+					for (var k of o.split(",")){
+						if ("BLACK RED GREEN YELLOW BLUE MAGENTA CYAN WHITE RESET".split(" ").includes(k)){
+							if (k=="RESET"){
+								k="WHITE"
+							}
+							current_style.color=k
+						}
+						if ("bBLACK bRED bGREEN bYELLOW bBLUE bMAGENTA bCYAN bWHITE bRESET".split(" ").includes(k)){
+							if (k=="bRESET"){
+								k="bBLACK"
+							}
+							current_style.background=k.substring(1)
+						}
+						if ("NORMAL BRIGHT RESET_ALL".split(" ").includes(k)){
+							if (k=="RESET_ALL"){
+								current_style.color="WHITE"
+								current_style.background="BLACK"
+								current_style.style="NORMAL"
+							}
+							else{
+								current_style.style=k
+							}
+						}
+					}
+					return style_span(current_style)
+				}
+				s=s.replace(/&&([^&]+)&&/g,rpl)
+				for (var i=0;i<SPANS;i++){
+					s+="</span>"
+				}
+				return s
+			}
+			function create_socket(){
+				window.SOCKET=new WebSocket("ws://192.168.178.65:8070/")
+				SOCKET.no_reload=false
+				SOCKET.onopen=function(){
+					console.log("connected")
+					cons.innerHTML=""
+				}
+				SOCKET.onclose=function(){
+					if (this.no_reload==false){
+						create_socket()
+					}
+				}
+				SOCKET.onmessage=function(e){
+					if (e.data=="null"){return}
+					e={type:e.data.substring(0,2),data:e.data.substring(2)}
+					_={
+						tx:function(dt){
+							cons.innerHTML+=format(dt)+"<br>"
+						},
+						cl:function(){
+							cons.innerHTML=""
+						},
+						na:function(dt){
+							SOCKET.send("dc")
+							SOCKET.no_reload=true
+							cons.innerHTML=format("&&RED&&Your IP address &&WHITE,BRIGHT&&(&&CYAN,NORMAL&&"+dt+"&&WHITE,BRIGHT&&) &&RED,NORMAL&&doesn't have admin enabled.")
+						},
+						nr:function(dt){
+							SOCKET.send("dc")
+							SOCKET.no_reload=true
+							cons.innerHTML=format("&&RED&&Your IP address &&WHITE,BRIGHT&&(&&CYAN,NORMAL&&"+dt+"&&WHITE,BRIGHT&&) &&RED,NORMAL&&isn't registred in the game.")
+						}
+					}[e.type](e.data)
+				}
+			}
+			function keyup(e){
+				if (e.keyCode==13){
+					SOCKET.send("cm"+input.value)
+					for (var i=input.history.length-1;i>=0;i--){
+						if (input.history[i]==input.value){
+							input.history.splice(i,1)
+						}
+					}
+					input.history.push(input.value)
+					input.h_pos=-1
+					input.value=""
+				}
+				else if (e.keyCode==38){
+					e.preventDefault()
+					e.stopPropagation()
+					e.stopImmediatePropagation()
+					if (input.h_pos==-1){
+						input.h_pos=input.history.length-1
+					}
+					else{
+						input.h_pos=Math.max(input.h_pos-1,0)
+					}
+					if (input.h_pos>-1){
+						input.value=input.history[input.h_pos]
+					}
+				}
+				else if (e.keyCode==40){
+					e.preventDefault()
+					e.stopPropagation()
+					e.stopImmediatePropagation()
+					if (input.h_pos>-1){
+						input.h_pos=Math.min(input.h_pos+1,input.history.length)
+						if (input.h_pos>=input.history.length){
+							input.h_pos=-1
+							input.value=""
+						}
+						if (input.h_pos>-1){
+							input.value=input.history[input.h_pos]
+						}
+					}
+				}
+				else {
+					input.h_pos=-1
+				}
+			}
+			window.onload=function(){
+				window.cons=document.getElementsByClassName("console")[0]
+				window.input=document.getElementsByClassName("input")[0]
+				input.history=[]
+				input.h_pos=-1
+				input.onkeyup=keyup
+				if (window.navigator.appVersion.indexOf("iPhone")>-1){
+					cons.classList.add("safari")
+				}
+				create_socket()
+			}
+		</script>
+		<style type="text/css">
+			@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+			html {
+				position: fixed;
+			}
+			body {
+				position: fixed;
+				margin: 0;
+				padding: 0;
+				width: 100%;
+				height: 100%;
+			}
+			body * {
+				margin: 0;
+				padding: 0;
+			}
+			.console {
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 30px;
+				background: #000000;
+				font-family: "Inconsolata";
+				font-size: 20px;
+				color: #f0f0f0;
+				overflow-x: hidden;
+				overflow-y: scroll;
+			}
+			.console.safari {
+				overflow-x: scroll;
+				font-size: 15px;
+			}
+			.input {
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				height: 30px;
+				width: 100%;
+				background: #000000;
+				font-family: "Inconsolata";
+				font-size: 25px;
+				color: #f0f0f0;
+				outline: none;
+				border: none;
+				border-radius: 0px;
+				border-top: solid 2px #f0f0f0;
+			}
+			.console::selection, .console span::selection, .input::selection {
+				background: #c1c1c150;
+			}
+			.console br::selection {
+				background: #000000;
+			}
+		</style>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<link rel="apple-touch-icon" href="./web/icon/apple-icon-console.png">
+		<link rel="shortcut icon" href="#">
+	</head>
+	<body>
+		<div class="console">
+		</div>
+		<input class="input" spellcheck="false">
+		</input>
+	</body>
+</html>
