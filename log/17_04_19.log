@@ -1,0 +1,1225 @@
+LOG - Wed,17 Apr 2019 15:32:14
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 15:39:22
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:05:08
+
+
+LOG - Wed,17 Apr 2019 16:05:22
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:08:43
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:09:43
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:11:06
+
+
+LOG - Wed,17 Apr 2019 16:11:17
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:21:28
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:32:02
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:32:50
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:36:01
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:48:02
+
+
+LOG - Wed,17 Apr 2019 16:48:28
+
+
+LOG - Wed,17 Apr 2019 16:48:56
+
+
+LOG - Wed,17 Apr 2019 16:49:14
+
+
+LOG - Wed,17 Apr 2019 16:49:41
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+
+LOG - Wed,17 Apr 2019 16:50:10
+
+PRIVATE: (192.168.178.65)	IPv4 already connected (IP=192.168.178.65)
+RECIVE: (192.168.178.65)	Player disconnect request
+
+LOG - Wed,17 Apr 2019 16:50:39
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:51:46
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 16:53:21
+
+
+LOG - Wed,17 Apr 2019 16:56:35
+
+
+LOG - Wed,17 Apr 2019 16:56:53
+
+
+LOG - Wed,17 Apr 2019 16:57:45
+
+
+LOG - Wed,17 Apr 2019 16:58:50
+
+
+LOG - Wed,17 Apr 2019 16:59:37
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:01:25
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:02:49
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:04:11
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:06:13
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:08:27
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:11:08
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:17:21
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:21:24
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:32:29
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:33:31
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:39:42
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:40:28
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:45:00
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:46:40
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:49:23
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:53:18
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:54:34
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:55:50
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:56:55
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:57:58
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 17:59:29
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:04:06
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:05:02
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:05:39
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:06:30
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:06:42
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:07:14
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:18:24
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+
+LOG - Wed,17 Apr 2019 18:19:42
+
+PRIVATE: (192.168.178.65)	IPv4 already connected (IP=192.168.178.65)
+RECIVE: (192.168.178.65)	Player disconnect request
+
+LOG - Wed,17 Apr 2019 18:20:17
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+
+LOG - Wed,17 Apr 2019 18:21:04
+
+
+LOG - Wed,17 Apr 2019 18:21:59
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:22:18
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:32:29
+
+
+LOG - Wed,17 Apr 2019 18:32:44
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:34:10
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:34:29
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:36:13
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:38:46
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:41:38
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:43:13
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:45:07
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:46:20
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:46:55
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:47:38
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:48:25
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:48:53
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:49:46
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:50:31
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:54:45
+
+
+LOG - Wed,17 Apr 2019 18:55:01
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:55:38
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:55:59
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 18:57:31
+
+
+LOG - Wed,17 Apr 2019 18:58:24
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:01:47
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:02:19
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:03:13
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:07:43
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:13:49
+
+
+LOG - Wed,17 Apr 2019 19:14:14
+
+
+LOG - Wed,17 Apr 2019 19:14:28
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:15:46
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:16:15
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:17:38
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:19:08
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:19:34
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:21:24
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:22:55
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:24:41
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:25:39
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:27:19
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:27:43
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:28:20
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:28:41
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:29:14
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:33:18
+
+
+LOG - Wed,17 Apr 2019 19:33:30
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:34:42
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:35:49
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:36:36
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:37:18
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:38:55
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:39:47
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:41:21
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:42:12
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:42:27
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 19:45:06
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+JOIN: (1)	192.168.178.64 (NAME=iPad,ID=1)
+PRIVAT: (1)	Default name & id setup (ID=1,DEFAULT-NAME=iPad)
+PRIVAT: (1)	Player data (ID=0,NAME=Krzem,X=26485,Y=15001,ROT=16)
+PUBLIC: (ALL)	Player data (ID=1,NAME=iPad,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=1)
+PUBLIC: (ALL)	Server leave notification (ID=1)
+PUBLIC: (ALL)	Player delete (ID=1)
+JOIN: (1)	192.168.178.64 (NAME=iPad,ID=1)
+PRIVAT: (1)	Default name & id setup (ID=1,DEFAULT-NAME=iPad)
+PRIVAT: (1)	Player data (ID=0,NAME=Krzem,X=26485,Y=15001,ROT=16)
+PUBLIC: (ALL)	Player data (ID=1,NAME=iPad,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=1)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+RECIVE: (1)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=1)
+PUBLIC: (ALL)	Player delete (ID=1)
+
+LOG - Wed,17 Apr 2019 20:05:09
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVATE: (192.168.178.65)	IPv4 already connected (IP=192.168.178.65)
+RECIVE: (192.168.178.65)	Player disconnect request
+
+LOG - Wed,17 Apr 2019 20:06:27
+
+PRIVATE: (192.168.178.65)	IPv4 already connected (IP=192.168.178.65)
+RECIVE: (192.168.178.65)	Player disconnect request
+
+LOG - Wed,17 Apr 2019 20:06:40
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 20:07:25
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+
+LOG - Wed,17 Apr 2019 20:09:34
+
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
+JOIN: (0)	192.168.178.65 (NAME=Krzem,ID=0)
+PRIVAT: (0)	Default name & id setup (ID=0,DEFAULT-NAME=Krzem)
+PUBLIC: (ALL)	Player data (ID=0,NAME=Krzem,X=15000,Y=15000,ROT=0)
+PUBLIC: (ALL)	Server join notification (ID=0)
+PUBLIC: (ALL)	Server closed (REASON=)
+RECIVE: (0)	Player disconnect request
+PUBLIC: (ALL)	Server leave notification (ID=0)
+PUBLIC: (ALL)	Player delete (ID=0)
