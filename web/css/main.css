@@ -1,0 +1,34 @@
+html {
+	position: fixed;
+}
+body {
+	position: fixed;
+	width: 100%;	
+	height: 100%;
+}
+body, body * {
+	margin: 0;
+	padding: 0;
+}
+div.wr {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+div.wr canvas.mainCnv {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+div.wr canvas.mainCnv.h {
+	cursor: none;
+}
+div.wr span{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
