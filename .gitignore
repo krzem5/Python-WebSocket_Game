@@ -1,5 +1,6 @@
 ### Github File Push Ignore
 
 log
+server_data
 webSocket.bat
 webServer.bat
