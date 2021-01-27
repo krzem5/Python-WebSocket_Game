@@ -1,5 +1,4 @@
 from SimpleWebSocketServer import SimpleWebSocketServer, WebSocket
-from colorama import init as Init, Fore, Back, Style
 from copy import deepcopy as Deepcopy
 from datetime import date as Date, datetime as Datetime
 from math import pi as PI, cos as Cos, sin as Sin, atan2 as Atan2, sqrt as Sqrt, radians as Radians, ceil as Ceil
@@ -9,6 +8,8 @@ from random import random as Random, shuffle as Shuffle
 from re import compile as Compile, sub as Sub
 from threading import Thread
 from time import strftime as Strftime, gmtime as Gmtime, sleep as Sleep, time as Time
+import ctypes
+import ctypes.wintypes
 
 
 
@@ -248,9 +249,9 @@ def print_queue(*a):
 
 
 def format(s):
-	fn={"BLACK":Fore.BLACK,"RED":Fore.RED,"GREEN":Fore.GREEN,"YELLOW":Fore.YELLOW,"BLUE":Fore.BLUE,"MAGENTA":Fore.MAGENTA,"CYAN":Fore.CYAN,"WHITE":Fore.WHITE,"RESET":Fore.RESET}
-	bk={"bBLACK":Back.BLACK,"bRED":Back.RED,"bGREEN":Back.GREEN,"bYELLOW":Back.YELLOW,"bBLUE":Back.BLUE,"bMAGENTA":Back.MAGENTA,"bCYAN":Back.CYAN,"bWHITE":Back.WHITE,"bRESET":Back.RESET}
-	st={"NORMAL":Style.NORMAL,"BRIGHT":Style.BRIGHT,"RESET_ALL":Style.RESET_ALL}
+	fn={"BLACK":"\x27[30m","RED":"\x27[31m","GREEN":"\x27[32m","YELLOW":"\x27[33m","BLUE":"\x27[34m","MAGENTA":"\x27[35m","CYAN":"\x27[36m","WHITE":"\x27[37m","RESET":"\x27[39m"}
+	bk={"bBLACK":"\x27[40m","bRED":"\x27[41m","bGREEN":"\x27[42m","bYELLOW":"\x27[43m","bBLUE":"\x27[44m","bMAGENTA":"\x27[45m","bCYAN":"\x27[46m","bWHITE":"\x27[47m","bRESET":"\x27[49m"}
+	st={"NORMAL":"\x27[22m","BRIGHT":"\x27[1m","RESET_ALL":"\x27[0m"}
 	def rpl(o):
 		o=o.group(1)
 		l=""
@@ -259,7 +260,7 @@ def format(s):
 			if (k in bk.keys()):l+=bk[k]
 			if (k in st.keys()):l+=st[k]
 		return l
-	return Sub("&&([^&]+)&&",rpl,s)+Style.RESET_ALL
+	return Sub("&&([^&]+)&&",rpl,s)+"\x27[m0"
 def blank_format(s):
 	return Sub("&&([^&]+)&&","",s)
 
@@ -2458,7 +2459,7 @@ BANS=load_bans()
 
 
 
-Init()
+ctypes.windll.kernel32.SetConsoleMode(ctypes.windll.kernel32.GetStdHandle(-11),ctypes.wintypes.DWORD(7))
 
 
 
