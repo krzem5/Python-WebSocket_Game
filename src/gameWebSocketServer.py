@@ -5,7 +5,7 @@ from math import pi as PI, cos as Cos, sin as Sin, atan2 as Atan2, sqrt as Sqrt,
 from os import system as System
 from os.path import exists as Exists
 from random import random as Random, shuffle as Shuffle
-from re import compile as Compile, sub as Sub
+from re import sub as Sub
 from threading import Thread
 from time import strftime as Strftime, gmtime as Gmtime, sleep as Sleep, time as Time
 import ctypes
@@ -267,7 +267,6 @@ def blank_format(s):
 
 
 def log(m):
-	date=Date.today()
 	fp=LOG_FILE_PATH+Strftime("%d_%m_%y",Gmtime())+".log"
 	with open(fp,"a") as f:
 		f.write(blank_format(m)+"\n")
@@ -750,8 +749,8 @@ class World:
 					ps.append(cp)
 		for i in range(0,3):
 			for j in range(0,3):
-				if (pts[i+j*3]==-1):continue
-				st=-1
+				if (pts[i+j*3]==-1):
+					continue
 				last=-1
 				done=[]
 				for d in "up right down left up right down left".split(" "):
@@ -1220,7 +1219,7 @@ class LootChest:
 		for l in self.loot:
 			x=self.x+LOOT_CHEST_SIZE/2+int(Random()*MIN_PICKUP_DIST-MIN_PICKUP_DIST/2)
 			y=self.y+LOOT_CHEST_SIZE/2+int(Random()*MIN_PICKUP_DIST-MIN_PICKUP_DIST/2)
-			i=GunItem(self.GAME,x,y,l[0],l[1],l[2],0)
+			GunItem(self.GAME,x,y,l[0],l[1],l[2],0)
 	def mouse_over(self,mx,my,tx,ty):
 		x=self.x-tx
 		y=self.y-ty
@@ -1313,8 +1312,8 @@ class Bullet:
 				if (d<sd):
 					sd=d
 					co=o
-			if (o!=None):
-				o.damage(self.damage,self.target)
+			if (co!=None):
+				co.damage(self.damage,self.target)
 				return True
 		return False
 	def update(self):
@@ -1497,7 +1496,6 @@ class ConsoleClient(WebSocket):
 		thr=Thread(target=self.setup,args=(),kwargs={})
 		thr.deamon=True
 		thr.start()
-		pass
 	def handleClose(self):
 		global CONSOLE_CLIENTS
 		CONSOLE_CLIENTS.remove(self)
@@ -1701,7 +1699,8 @@ def console():
 			if (parse_console_command(j)==True):
 				END=True
 				break
-		if (END==True):break
+		if (END==True):
+			break
 	end();
 def end():
 	Sleep(1.5)
