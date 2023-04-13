@@ -16,6 +16,7 @@ import ctypes.wintypes
 global USED_NAMES,PLAYERS,CHAT,DECODE_CONSOLE_CHAT,END,BANS
 
 
+
 NOISE_OFFSET=[Random()*10,Random()*10,Random()*10]
 
 
@@ -2449,7 +2450,6 @@ if (not Exists(fp)):
 else:
 	with open(fp,"a") as f:
 		f.write("\nLOG - "+Strftime("%a,%d %b %Y %H:%M:%S",Gmtime())+"\n\n")
-
 
 USED_NAMES=load_used_names()
 NEXT_ID=load_next_id()
